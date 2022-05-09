@@ -2,7 +2,7 @@
 	"name": "Input2",
 	"properties": {
 		"linkedServiceName": {
-			"referenceName": "LS_Blobstorage",
+			"referenceName": "AzureBlobStorage1",
 			"type": "LinkedServiceReference"
 		},
 		"annotations": [],
