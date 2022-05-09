@@ -1,0 +1,9 @@
+{
+	"name": "DF-GIThubMarch2022",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "702a6d4d-b769-4b37-8fd9-71af6021e9fd",
+		"tenantId": "d6e2744c-e244-4d20-b40c-b4cb6ffd37c1"
+	}
+}
